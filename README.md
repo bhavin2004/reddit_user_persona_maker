@@ -1,6 +1,6 @@
 # Reddit User Persona Maker using AI
 
-[![Demo](https://img.shields.io/badge/Demo-Live-green)](https://your-deployed-link-here.com)
+[![Demo](https://img.shields.io/badge/Demo-Live-green)](https://reddituserpersonamaker.streamlit.app/)
 
 ## What is this project?
 
@@ -66,6 +66,6 @@ Follow these steps to set up and run the project on your system:
 
 ## Demo
 
-Try the live demo: [Demo Link](https://your-deployed-link-here.com)
+Try the live demo: [Demo Link](https://reddituserpersonamaker.streamlit.app/)
 
 
