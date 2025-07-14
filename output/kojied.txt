@@ -1,0 +1,34 @@
+Here is the final detailed persona:
+
+**Name**: kojied
+**Age**: Late 20s to early 30s
+**Status**: Working professional or graduate student
+**Location**: New York City or surrounding areas
+**Tier**: B (Urban)
+
+**Archetype**: Explorer (curious, open to new ideas, and willing to share their experiences)
+
+**Motivation**: kojied is motivated to engage in online discussions and share their opinions and experiences, driven by a desire for self-expression, entertainment, and staying informed about emerging technologies and trends.
+
+**Ratings (0–5)**:
+- Convenience: 3
+- Wellness: 2
+- Speed: 4
+- Preferences: 4
+- Comfort: 3
+- Dietary Needs: 1
+
+**Personality (MBTI scale 0–5)**:
+- Introvert (0) ←——→ Extrovert (5): 3
+- Intuition (0) ←——→ Sensing (5): 4
+- Feeling (0) ←——→ Thinking (5): 3
+- Perceiving (0) ←——→ Judging (5): 4
+
+**Behavior**:
+- kojied is an avid gamer, particularly interested in strategy and simulation games like Manor Lords, and values efficiency and convenience in their gaming experience.
+- kojied is tech-savvy and interested in emerging technologies like spatial computing and AI-generated content, often engaging in discussions about their applications and potential.
+- kojied is willing to engage in online discussions and share their opinions, but doesn't seek to dominate conversations, and is open to new experiences and ideas.
+
+**Goals & Needs**: kojied seeks entertainment and engagement through gaming and online discussions, wants to optimize their gaming experience, and is interested in staying up-to-date with emerging technologies and trends.
+
+**Frustrations**: kojied feels frustrated when their gaming experience is disrupted, such as when they encounter bugs or poor game design, and may feel overwhelmed by the complexity of certain games or game mechanics. They may also feel annoyed by the presence of interns in their preferred bar, disrupting their routine.
