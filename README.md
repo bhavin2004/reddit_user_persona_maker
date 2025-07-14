@@ -1,10 +1,3 @@
-> **Note:** You will also need Reddit API credentials for PRAW.  
-> Create a Reddit app at [Reddit Apps](https://www.reddit.com/prefs/apps), then add the following to your `.env` file:
-> ```
-> GROQ_API_KEY=your_groq_api_key_here
-> REDDIT_CLIENT_ID=your_reddit_client_id
-> REDDIT_CLIENT_SECRET=your_reddit_client_secret
-> REDDIT_USER_AGENT=your_custom_user_agent
 # Reddit User Persona Maker using AI
 
 [![Demo](https://img.shields.io/badge/Demo-Live-green)](https://your-deployed-link-here.com)
@@ -62,7 +55,11 @@ Follow these steps to set up and run the project on your system:
     ```bash
     python app.py
     ```
-    or use the appropriate command for your framework.
+    or
+    ```bash
+    python main.py
+    ```
+    (Use the appropriate command for your framework.)
 
 7. **Access the app**
     - Open your browser and go to `http://localhost:5000` (or the port specified).
@@ -70,15 +67,5 @@ Follow these steps to set up and run the project on your system:
 ## Demo
 
 Try the live demo: [Demo Link](https://your-deployed-link-here.com)
-
-## Previous version
-
-You will need to set your GROQ API key and Reddit API credentials in a `.env` file:
-```
-GROQ_API_KEY=your_groq_api_key_here
-REDDIT_CLIENT_ID=your_reddit_client_id
-REDDIT_CLIENT_SECRET=your_reddit_client_secret
-REDDIT_USER_AGENT=your_custom_user_agent
-```
 
 

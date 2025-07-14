@@ -1,17 +1,22 @@
 Here is the final detailed persona:
 
-**Name**: kojied
-**Age**: Late 20s to early 30s
-**Status**: Working professional or graduate student
-**Location**: New York City or surrounding areas
-**Tier**: B (Urban)
+**Name:** kojied (assuming the username is a representation of their identity)
 
-**Archetype**: Explorer (curious, open to new ideas, and willing to share their experiences)
+**Age:** Late 20s to early 30s
 
-**Motivation**: kojied is motivated to engage in online discussions and share their opinions and experiences, driven by a desire for self-expression, entertainment, and staying informed about emerging technologies and trends.
+**Status:** Working professional (likely in the tech industry, given interest in AI, Vision Pro, and iOS development)
+
+**Location:** New York City or surrounding areas (inferred from frequent posts in r/AskNYC and mention of specific NYC locations)
+
+**Tier:** Urban
+
+**Archetype:** Tech-Savvy Urbanite (based on interest in technology, entrepreneurship, and innovative ideas)
+
+**Motivation:** kojied is motivated to post and comment on Reddit to stay up-to-date with the latest technology and trends, share personal experiences and opinions, and connect with like-minded individuals online.
 
 **Ratings (0–5)**:
-- Convenience: 3
+
+- Convenience: 4
 - Wellness: 2
 - Speed: 4
 - Preferences: 4
@@ -19,16 +24,19 @@ Here is the final detailed persona:
 - Dietary Needs: 1
 
 **Personality (MBTI scale 0–5)**:
+
 - Introvert (0) ←——→ Extrovert (5): 3
 - Intuition (0) ←——→ Sensing (5): 4
 - Feeling (0) ←——→ Thinking (5): 3
 - Perceiving (0) ←——→ Judging (5): 4
 
 **Behavior**:
-- kojied is an avid gamer, particularly interested in strategy and simulation games like Manor Lords, and values efficiency and convenience in their gaming experience.
-- kojied is tech-savvy and interested in emerging technologies like spatial computing and AI-generated content, often engaging in discussions about their applications and potential.
-- kojied is willing to engage in online discussions and share their opinions, but doesn't seek to dominate conversations, and is open to new experiences and ideas.
 
-**Goals & Needs**: kojied seeks entertainment and engagement through gaming and online discussions, wants to optimize their gaming experience, and is interested in staying up-to-date with emerging technologies and trends.
+- Engages in various online communities, from technology to gaming to local discussions
+- Shares personal experiences and opinions, but also listens to others and provides helpful advice
+- Values efficiency and convenience in daily life
+- May struggle with adapting to change or unexpected events
 
-**Frustrations**: kojied feels frustrated when their gaming experience is disrupted, such as when they encounter bugs or poor game design, and may feel overwhelmed by the complexity of certain games or game mechanics. They may also feel annoyed by the presence of interns in their preferred bar, disrupting their routine.
+**Goals & Needs**: kojied is ultimately trying to gain a better understanding of the latest technology and trends, improve their skills and knowledge in areas like iOS development and spatial computing, and connect with like-minded individuals online.
+
+**Frustrations**: kojied seems to be annoyed by excessive advertising and commercialization of sports and technology, inefficiencies and slow responses in AI interactions, and wealth inequality and social injustices, particularly in the context of US politics.
