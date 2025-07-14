@@ -6,4 +6,13 @@
 > REDDIT_CLIENT_SECRET=your_reddit_client_secret
 > REDDIT_USER_AGENT=your_custom_user_agent
 > ```
+>
+> **Previous version:**
+> You will need to set your GROQ API key and Reddit API credentials in a `.env` file:
+> ```
+> GROQ_API_KEY=your_groq_api_key_here
+> REDDIT_CLIENT_ID=your_reddit_client_id
+> REDDIT_CLIENT_SECRET=your_reddit_client_secret
+> REDDIT_USER_AGENT=your_custom_user_agent
+> ```
 
